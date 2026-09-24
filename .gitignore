@@ -1,0 +1,6 @@
+# Contains live auth tokens (driver JWTs) for stg2 load testing -- never commit.
+scripts/test-data/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store

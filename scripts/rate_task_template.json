@@ -1,0 +1,26 @@
+{
+  "task_type_id": 5,
+
+  "ready_to_execute": true,
+
+  "customer": {
+    "name": "Rate Test Customer",
+    "phone": "0000000000",
+    "address": "Test Address, Barcelona"
+  },
+
+  "way_points": [
+    {
+      "position": 2,
+      "address": {
+        "street_address": "Carrer de la Marina 16",
+        "city": "Barcelona",
+        "country": "Spain",
+        "lat": 41.3924,
+        "lng": 2.1978
+      }
+    }
+  ],
+
+  "extras": {}
+}
